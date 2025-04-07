@@ -146,16 +146,16 @@ DBeaver (Database Management)
 ACADEMIC EDUCATION
 
 
-National University, Online
+University, Online
 
 Doctoral - PhD (1.5 yrs):  pending
 
 
-Albertus Magnus College, New Haven, CT
+College, New Haven, CT
 
 M.S. Degree:  Business
 
 
- Goodwin College, East Hartford, CT
+College, East Hartford, CT
 
 Business Office Administration
