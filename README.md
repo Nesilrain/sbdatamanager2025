@@ -29,6 +29,11 @@ Extract raw aged and present data and put it into reports using Power BI.  Remov
 
 -
 
+📒Accounting/Bookkeeping 
+AP/AP, journal entries, reconciliation. Tax filing assistance.
+
+-
+
 📨Chat Support
 
 SMS/Email/chat support moderator. Respond to ticket inquiries. Create and tracking project tickets. Issue refunds.
