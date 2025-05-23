@@ -14,7 +14,7 @@
 
 2000-2011
 
-*2022-present Virtual - Remote*
+*2022-present Virtual - Remote
 
 (Contractor - Per Diem - Self Employment)
 
