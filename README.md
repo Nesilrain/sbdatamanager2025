@@ -2,8 +2,6 @@
 
 Code:  print("Data Analyst At Your Service")
 
-ink?to=https://sbdatamanagement.com/
-
 #Database
 
 #Flowchart
