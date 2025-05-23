@@ -1,7 +1,5 @@
 # SB Data Manager
 
-Code:  print("Data Analyst At Your Service")
-
 #Database
 
 #Flowchart
